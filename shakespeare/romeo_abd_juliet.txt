@@ -1,0 +1,4 @@
+Whats in a nem?That which we call a rose > romeo_abd_juliet.txt
+
+exit
+echo Whats in a nem?That which we call a rose
